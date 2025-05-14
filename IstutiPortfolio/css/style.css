@@ -114,7 +114,7 @@ nav ul li a:hover { color:var(--color-primary); }
 
 /* PROJECTS */
 .projects-grid {
-  display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:2rem;
+  display:grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap:2rem;
 }
 .project-card {
   background:white; border-radius:8px; overflow:hidden;
